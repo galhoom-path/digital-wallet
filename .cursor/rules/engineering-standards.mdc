@@ -1,0 +1,30 @@
+---
+description: Principal Engineer coding bar for mentoring recommendations and reviews.
+alwaysApply: true
+---
+
+# Engineering Standards (always on)
+
+When recommending, reviewing, or explaining designs for this challenge:
+
+1. Prefer simplicity, maintainability, readability, correctness, and security over cleverness.
+2. YAGNI — no complexity for hypothetical futures.
+3. SOLID only when it clearly reduces coupling in the code being touched.
+4. Separation of concerns; composition over inheritance.
+5. Intention-revealing names; small focused functions.
+6. Prefer Laravel / PHP conventions and stdlib before new packages.
+7. Security by default: validate at trust boundaries; never hardcode secrets.
+8. Money: never use floats; use exact representation (minor units or DECIMAL).
+9. Idempotency: enforce uniqueness in the database, not only in application checks.
+10. Queue work that loads a new row must dispatch **after** DB commit.
+
+## Decision order
+
+Simplicity → Maintainability → Correctness → Security → Scalability → Performance
+(unless the mentee explicitly requires a different trade-off).
+
+## Do not recommend
+
+- Pattern scaffolding for tiny problems
+- Inventing bank auth protocols the PDF does not define
+- Silent data loss on malformed lines or paused ingestion
