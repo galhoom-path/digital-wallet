@@ -20,10 +20,19 @@ Verified on this machine before Lesson 001. No Laravel project yet (that is Less
 - Do **not** add app packages yet.
 - Herd Desktop may be closed; CLI PHP 8.5 already works. Start Herd later when you need a local site / services.
 
+## Learning professionalism (study-template)
+
+| Item | Status |
+| --- | --- |
+| [`METHOD.md`](METHOD.md) | Present — PLAN→DO→CHECK→ACT, max 2 concepts, analogy, proof |
+| [`visual-maps/`](visual-maps/) | Present — GitHub-clear Mermaid standards + starter map 01 |
+| [`milestones/`](milestones/) | Present — Milestone 1 checklist ready |
+
 ## Start learning
 
 1. Open chat.
 2. Say: **Start the current lesson**
 3. Current lesson: **001 — Transaction Identity and Duplicate Acceptance Criteria** (conceptual — no coding yet).
 
-Details: [`progress.md`](progress.md) · [`START-HERE.md`](START-HERE.md) · [`../docs/stack.md`](../docs/stack.md)
+Details: [`progress.md`](progress.md) · [`START-HERE.md`](START-HERE.md) · [`METHOD.md`](METHOD.md) · [`../docs/stack.md`](../docs/stack.md)
+

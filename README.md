@@ -1,16 +1,17 @@
 # Digital Wallet — Mentored Coding Challenge
 
-A hands-on training workspace for the **Digital Wallet Coding Challenge**.
+A hands-on **Practice build** (Galhoom Path Track 5) for the **Digital Wallet Coding Challenge**.
 
 Stack lock: **Laravel 13** ([release notes](https://laravel.com/docs/13.x/releases)) on **PHP 8.5**.  
-Challenge scope: exact brief requirements in [`docs/requirements.md`](docs/requirements.md) — no missing mandatory items, no invented extras in the 100% checklist.
+Challenge scope: exact brief requirements in [`docs/requirements.md`](docs/requirements.md) — no missing mandatory items, no invented extras in the 100% checklist.  
+Teaching method: [`learning/METHOD.md`](learning/METHOD.md) (judgment from [study-template](https://github.com/galhoom-path/study-template) — not a Study lecture series).
 
 You write every line of application code. Cursor is your mentor and guide only — it never implements the challenge for you.
 
 ## Start here
 
 1. Confirm preflight: [`learning/READY.md`](learning/READY.md)
-2. Read [`learning/START-HERE.md`](learning/START-HERE.md)
+2. Skim [`learning/METHOD.md`](learning/METHOD.md) and [`learning/START-HERE.md`](learning/START-HERE.md)
 3. Open a chat and say: **Start the current lesson**
 4. Do the task yourself, then share command output / code for review
 
@@ -44,4 +45,5 @@ You write every line of application code. Cursor is your mentor and guide only �
 ## Current position
 
 See [`learning/progress.md`](learning/progress.md).
+
 

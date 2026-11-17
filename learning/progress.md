@@ -13,6 +13,7 @@ Updated by the mentor after each lesson with evidence. Do not mark implementatio
 | Next lesson | 001 |
 | `solution/` Laravel project | no (placeholder folder only; create in Lesson 011) |
 | Host preflight | PASS — PHP 8.5.12, Composer 2.11.2, Git, extensions, 7-Zip ([READY.md](READY.md)) |
+| Learning method | study-template judgment absorbed ([METHOD.md](METHOD.md)) |
 | Tests written | 0 |
 | Tests passing | 0 |
 
@@ -44,10 +45,11 @@ Updated by the mentor after each lesson with evidence. Do not mark implementatio
 - Document every ASSUMPTION (AMB-01–AMB-11) in the final README (Lesson 096)
 - Create the **Laravel 13** project inside `solution/` only when Lesson 011 instructs it (placeholder README is fine until then)
 - Track 100% completion only via MANDATORY (+ DC-01) rows in `docs/requirements.md` — see section D there
+- Complete `learning/milestones/M1-requirements.md` before Milestone 2
 
 ## Session resume checklist (mentor)
 
-1. Read this file and `learning/plan.md`
+1. Read this file, `learning/METHOD.md`, and `learning/plan.md`
 2. Inspect `solution/` if present
 3. Reconcile recorded progress with evidence
 4. Continue at the correct checkpoint

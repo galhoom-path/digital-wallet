@@ -1,16 +1,18 @@
 # Start here
 
-Welcome. This workspace turns the Digital Wallet Coding Challenge into a mentored training track.
+Welcome. This workspace turns the Digital Wallet Coding Challenge into a mentored **Practice build** (Galhoom Path Track 5).
 
 ## How sessions work
 
 1. Say **Start the current lesson** (or continue from where you left off).
-2. The mentor delivers one Pareto lesson (What/Why → concepts → decision → your task → verification).
-3. **You** write the code / run the commands.
-4. Paste output or point to files for review.
-5. The mentor updates progress with evidence, then names the next lesson.
+2. The mentor runs **PLAN → DO → CHECK → ACT** and delivers one Pareto lesson.
+3. **You** write the code / run the commands by hand.
+4. Paste output or point to files for review (proof before progress).
+5. The mentor updates progress, then names the next lesson.
 
 No quizzes. No waiting for "do you understand?" You can always ask for clarification.
+
+Read the method once: [`METHOD.md`](METHOD.md) (ideas adapted from [study-template](https://github.com/galhoom-path/study-template)).
 
 ## What you will build
 
@@ -36,8 +38,11 @@ A `solution/` placeholder folder exists. Do **not** install Laravel into it yet 
 | File | Purpose |
 | --- | --- |
 | [`READY.md`](READY.md) | Host preflight (PASS before Lesson 001) |
+| [`METHOD.md`](METHOD.md) | How we teach (study-template judgment) |
 | [`progress.md`](progress.md) | Current lesson and status |
 | [`plan.md`](plan.md) | Full 106-lesson curriculum |
+| [`visual-maps/`](visual-maps/) | System diagrams (GitHub-clear Mermaid) |
+| [`milestones/`](milestones/) | End-of-milestone review checklists |
 | [`../docs/requirements.md`](../docs/requirements.md) | Traceability matrix |
 | [`../docs/assumptions.md`](../docs/assumptions.md) | Documented ASSUMPTIONs |
 | [`../docs/decisions.md`](../docs/decisions.md) | Engineering decisions log |
