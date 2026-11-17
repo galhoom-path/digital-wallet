@@ -12,6 +12,7 @@ Updated by the mentor after each lesson with evidence. Do not mark implementatio
 | Last completed | — |
 | Next lesson | 001 |
 | `solution/` Laravel project | no (placeholder folder only; create in Lesson 011) |
+| Host preflight | PASS — PHP 8.5.12, Composer 2.11.2, Git, extensions, 7-Zip ([READY.md](READY.md)) |
 | Tests written | 0 |
 | Tests passing | 0 |
 

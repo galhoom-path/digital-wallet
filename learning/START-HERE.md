@@ -35,6 +35,7 @@ A `solution/` placeholder folder exists. Do **not** install Laravel into it yet 
 
 | File | Purpose |
 | --- | --- |
+| [`READY.md`](READY.md) | Host preflight (PASS before Lesson 001) |
 | [`progress.md`](progress.md) | Current lesson and status |
 | [`plan.md`](plan.md) | Full 106-lesson curriculum |
 | [`../docs/requirements.md`](../docs/requirements.md) | Traceability matrix |
@@ -43,5 +44,7 @@ A `solution/` placeholder folder exists. Do **not** install Laravel into it yet 
 | [`../docs/samples.md`](../docs/samples.md) | Bank lines + XML sample |
 
 ## Ready?
+
+Preflight checklist: [`READY.md`](READY.md) (should be all PASS before Lesson 001).
 
 Open chat and say: **Start the current lesson**

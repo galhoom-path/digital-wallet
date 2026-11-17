@@ -9,9 +9,10 @@ You write every line of application code. Cursor is your mentor and guide only â
 
 ## Start here
 
-1. Read [`learning/START-HERE.md`](learning/START-HERE.md)
-2. Open a chat and say: **Start the current lesson**
-3. Do the task yourself, then share command output / code for review
+1. Confirm preflight: [`learning/READY.md`](learning/READY.md)
+2. Read [`learning/START-HERE.md`](learning/START-HERE.md)
+3. Open a chat and say: **Start the current lesson**
+4. Do the task yourself, then share command output / code for review
 
 ## Workspace layout
 
@@ -43,3 +44,4 @@ You write every line of application code. Cursor is your mentor and guide only â
 ## Current position
 
 See [`learning/progress.md`](learning/progress.md).
+

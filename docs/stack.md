@@ -20,6 +20,18 @@ Official source: [Laravel Release Notes](https://laravel.com/docs/13.x/releases)
 | Bug fixes until | Q3 2027 |
 | Security fixes until | 17 March 2028 |
 
+## Verified on this machine (2026-11-17)
+
+| Tool | Version / path |
+| --- | --- |
+| PHP | 8.5.12 — `C:\Users\Galhoom\.config\herd\bin\php85\php.exe` |
+| Composer | 2.11.2 (diagnose OK; 7-Zip available for archives) |
+| Git | 2.56.0.windows.3 |
+| Remote | `https://github.com/galhoom-path/digital-wallet.git` |
+| Extensions | `ctype`, `curl`, `dom`, `fileinfo`, `mbstring`, `openssl`, `pdo_mysql`, `pdo_pgsql`, `pdo_sqlite`, `tokenizer`, `xmlwriter` |
+
+Laravel project: **not created yet** (Lesson 011).
+
 ## Rules
 
 1. Develop and verify on **PHP 8.5** (`php -v` must show 8.5.x).
@@ -28,3 +40,4 @@ Official source: [Laravel Release Notes](https://laravel.com/docs/13.x/releases)
 4. Do **not** invent stack requirements the challenge brief never stated (no mandatory Redis, Docker, Horizon, etc.) unless a lesson decision records them as optional tooling.
 5. Verify installed framework with `php artisan --version` inside `solution/` after Lesson 011 — must report **13.x**.
 6. Prefer framework-native features for queues/pause (`queue:pause` / `queue:continue` where documented for 13.x) over custom reinventions.
+
