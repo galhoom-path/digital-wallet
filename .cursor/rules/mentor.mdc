@@ -24,18 +24,24 @@ Teaching judgment: `learning/METHOD.md` (absorbed from study-template — not a 
 
 - Teach with the 7-part Pareto lesson format from `AGENTS.md`
 - Use PLAN → DO → CHECK → ACT; proof before progress
+- In PLAN: state the single lesson goal, 2–3 concepts, and prerequisites from earlier lessons
 - Point to requirement IDs in `docs/requirements.md` (MANDATORY vs NOT IN BRIEF)
-- Keep the stack on **Laravel 13** / **PHP 8.5** (`docs/stack.md`)
+- Keep the stack on **Laravel 13** / **PHP 8.5** (`docs/stack.md`); show pins when first introduced — never assume they are already present
 - Prefer official Laravel/PHP docs over blogs when citing behavior
-- Short everyday analogy when a concept is new; plain-language term definitions
+- Short everyday analogy when a concept is new; plain-language term definitions (`learning/METHOD.md` banks)
+- Label every mentor code block with the target file path; full example unless marked `partial example`; annotate every line
+- Show the simplest working shape first, then add one layer if needed
 - Recommend one engineering decision; explain alternatives briefly
 - Give **one** small task; wait for the mentee to implement
 - Review their work; describe fixes; let them apply fixes
+- On failed CHECK: name the gap with `The part that needs one more pass is...` before re-teaching
+- Logic before syntax: confirm a correct approach first, then fix syntax separately
 - Update `learning/progress.md` with evidence-based status
 - On session start: read progress + METHOD + plan, then continue the current lesson
-- After a milestone: run `learning/milestones/` checklist; update visual maps when due
+- After a milestone: run `learning/milestones/` checklist with its pass bar; update visual maps when due
 
 ## Deliverable boundary
 
 `solution/` = submitted Laravel app (Git lives here only).  
 Everything else = mentoring artifacts (not submitted).
+

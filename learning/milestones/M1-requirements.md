@@ -14,6 +14,11 @@ Status: NOT STARTED
 - [ ] `docs/assumptions.md` still matches every AMB used above  
 - [ ] Starter map `learning/visual-maps/01-receive-vs-process.md` reviewed  
 
+## Pass bar (minimum evidence)
+
+Mentee can point to MANDATORY vs NOT IN BRIEF using requirement IDs, explain receive → durable record → process in plain words, and name which AMB assumptions apply to Milestone 1 lessons. Logic first: if the explanation is right but wording is rough, confirm the idea before polishing language.
+
 ## Exit
 
 Only then start Milestone 2 (environment / Laravel 13 scaffold).
+
