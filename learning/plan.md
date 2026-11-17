@@ -51,7 +51,7 @@ Decision explanation format (concise, proportionate to importance):
 ... [lean-ctx: omitted 4 lines]
 | Mentoring layout | `docs/`, `learning/`, `AGENTS.md`, `.cursor/rules/` — not submitted |
 | Challenge 100% | All **MANDATORY** (+ ENCOURAGED DC-01) IDs in [`../docs/requirements.md`](../docs/requirements.md) PASS — no invented extras |
-**Machine preflight (2026-11-17):** PHP 8.5.12, Composer 2.11.2, Git 2.56, required extensions present, Composer diagnose OK with 7-Zip — see [`READY.md`](READY.md) and [`../docs/stack.md`](../docs/stack.md).
+**Machine preflight (2026-11-17):** PHP 8.5.12, Composer 2.11.2, Git 2.56, required extensions present, Composer diagnose OK with 7-Zip — see [`READY.md`](READY.md).
 
 Still open until later lessons: database engine choice (Lesson 010), Git user identity if unset (Lesson 009).
 ## 2. Requirements Traceability Baseline
