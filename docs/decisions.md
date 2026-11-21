@@ -78,3 +78,10 @@ Related: requirement IDs, assumption IDs, lessons
 ## Rule
 
 Dispatch queue jobs that load a newly inserted row **after** the DB commit (`afterCommit`). See `docs/learning-from-mistakes/`.
+
+
+## D-WALLET-PHP86 — Language org vs Laravel stack (2026-11-21)
+
+- **Decision:** Galhoom Path **language** curricula target **PHP 8.6**. This wallet deliverable stays on **PHP 8.5** while [Laravel 13 releases](https://laravel.com/docs/13.x/releases) list official support as **8.3–8.5**.
+- **Why:** Claiming Laravel 13 + PHP 8.6 before the framework documents it would lower professionalism.
+- **Consequences:** Revisit this ADR when Laravel's support table includes 8.6; then bump `docs/stack.md` + CI in the same change.
